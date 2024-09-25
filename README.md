@@ -1,3 +1,5 @@
+My Portfolio Website
+
 Description
 This repository contains the source code for my personal portfolio website. The site is a simple two-page design showcasing my professional information and providing a way to get in touch.
 
@@ -18,7 +20,7 @@ HTML5
 CSS3
 
 View the Website
-You can view the live website at: [Your Website URL]
+You can view the live website at: https://julien-antony20.github.io/portfolio/
 Local Development
 To run this website locally:
 

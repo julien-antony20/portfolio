@@ -20,7 +20,7 @@ HTML5
 CSS3
 
 View the Website
-You can view the live website at: https://julien-antony20.github.io/portfolio/
+You can view the live website at: https://juliens-repo.github.io/portfolio/
 Local Development
 To run this website locally:
 
